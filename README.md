@@ -6,8 +6,9 @@ This repository contains the privacy policies for Steve's apps:
 - `festivos-latam/`
 - `petguardian/`
 - `pico-y-placa/`
+- `simulador-creditos-colombia/`
 
-The credit simulator does not yet have a published privacy policy. Add its reviewed policy under `simulador-creditos-colombia/` before publication.
+Review the credit simulator policy against the final production ad configuration and store disclosures before releasing the app.
 
 These files were copied from the existing public sites. Until app and store links are migrated, keep the existing sites available and synchronize any policy changes to the URLs currently in use. The existing sites also serve other content, including support, advertising verification, and email confirmation.
 
